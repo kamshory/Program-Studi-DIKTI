@@ -1,2 +1,3 @@
 # Program-Studi-DIKTI
-Program Studi DIKTI
+
+Daftar program studi (prodi) DIKTI
